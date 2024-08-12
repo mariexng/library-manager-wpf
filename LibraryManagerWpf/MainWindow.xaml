@@ -53,7 +53,7 @@
         <StackPanel Grid.Row="2" Grid.Column="3" VerticalAlignment="Bottom" Margin="5,0,0,0">
             <Button x:Name="buttonShowDescription" Content="Show description" Margin="0,10" Click="ButtonShowDescription_Click" Background="#FF8B8EBB" FontFamily="Bahnschrift" FontSize="14" Foreground="White"/>
             <Button x:Name="buttonLend" Content="Lend" Margin="0,10" Click="ButtonLend_Click" Background="#FF8B8EBB" FontFamily="Bahnschrift" FontSize="14" Foreground="White"/>
-            <Button x:Name="buttonUpdate" Content="Update"  Margin="0,10" Click="ButtonUpdate_Click" Background="#FF8B8EBB" FontFamily="Bahnschrift" FontSize="14" Foreground="White"/>
+            <Button x:Name="buttonEdit" Content="Edit"  Margin="0,10" Click="ButtonEdit_Click" Background="#FF8B8EBB" FontFamily="Bahnschrift" FontSize="14" Foreground="White"/>
             <Button x:Name="buttonDelete" Content="Delete"  Margin="0,10,0,0" Click="ButtonDelete_Click" Background="#FF8B8EBB" FontFamily="Bahnschrift" FontSize="14" Foreground="White"/>
         </StackPanel>
     </Grid>

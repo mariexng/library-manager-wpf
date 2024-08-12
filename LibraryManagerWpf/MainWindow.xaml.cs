@@ -78,7 +78,7 @@ namespace LibraryManagerWpf
             textboxTitle.Text = selectedBook.title;
             textboxDescription.Text = selectedBook.description;
             isEditingBook = true;
-            buttonUpdate.Content = "Cancel";
+            buttonEdit.Content = "Cancel";
             textboxDescription.IsReadOnly = false;
         }
 
@@ -151,7 +151,7 @@ namespace LibraryManagerWpf
         /// <summary>
         /// sets selected book data into the text fields, and sets isEditingBook to true
         /// </summary>
-        private void ButtonUpdate_Click(object sender, RoutedEventArgs e)
+        private void ButtonEdit_Click(object sender, RoutedEventArgs e)
         {
             if (selectedBook == null) { MessageBox.Show("No book selected.", "Info", MessageBoxButton.OK, MessageBoxImage.Information); return; }
 
@@ -160,7 +160,7 @@ namespace LibraryManagerWpf
             // reset button and empty fields
             else
             {
-                buttonUpdate.Content = "Change";
+                buttonEdit.Content = "Edit";
                 isEditingBook = false;
                 ClearTextBox();
             }
@@ -215,7 +215,7 @@ namespace LibraryManagerWpf
             if (isEditingBook)
             {
                 library.UpdateBook(selectedBook, newBook);
-                buttonUpdate.Content = "Change";
+                buttonEdit.Content = "Change";
                 isEditingBook = false;
             }
             else
