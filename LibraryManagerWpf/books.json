@@ -1,0 +1,314 @@
+[
+  {
+    "bookId": "e56b5c1f-c800-4af1-9079-4158e51de447",
+    "title": "Harry Potter und ein Stein",
+    "description": null,
+    "isbn": "192-2551-15215-125",
+    "available": true,
+    "author": {
+      "authorId": "66f415f4-27a3-49c3-875e-7bf2f6210525",
+      "name": "J.K.",
+      "lastname": "Rowling"
+    }
+  },
+  {
+    "bookId": "96001d4d-f255-47c5-b92b-8482623b25f8",
+    "title": "Harry Potter 2",
+    "description": "Ein Tolles Buch Nr. 2",
+    "isbn": "1314125",
+    "available": false,
+    "author": {
+      "authorId": "b6ccdba5-f543-48bc-9f43-279aeeef0df2",
+      "name": "J.K.",
+      "lastname": "Rowling"
+    }
+  },
+  {
+    "bookId": "a67efc7e-bb7f-407d-a3a9-5c5b42876306",
+    "title": "Fish in the Sea",
+    "description": "\"Fish in the Sea is a heartwarming story about a young girl's journey to save a rare and mysterious species of fish, ultimately discovering the power of courage and friendship along the way.\"",
+    "isbn": "978-1-68290-309-4",
+    "available": true,
+    "author": {
+      "authorId": "f0650e22-1bbf-429c-9123-9ac78355973b",
+      "name": "Jane",
+      "lastname": "Smith"
+    }
+  },
+  {
+    "bookId": "23742f62-ff8f-4f42-ab9b-e0c97568b627",
+    "title": "The Garden of Secrets 2",
+    "description": "\"The Garden of Secrets from Lily Green is a captivating tale of love, loss, and discovery as a young girl navigates the hidden secrets of her new home's magical garden.\"",
+    "isbn": "978-1-23456-789-0",
+    "available": false,
+    "author": {
+      "authorId": "95e0553d-ac8f-4a30-8fc1-7a77ff4c3e96",
+      "name": "Lily",
+      "lastname": "Green"
+    }
+  },
+  {
+    "bookId": "fd487ff9-2b82-4dc2-9ac8-6b9a9392dd6c",
+    "title": "The Secret Garden",
+    "description": "The Secret Garden is a timeless classic that follows the story of a young girl who discovers a beautiful hidden garden and the transformative power it holds.",
+    "isbn": "978-0-14-243705-9",
+    "available": true,
+    "author": {
+      "authorId": "f6a09a61-b875-47e5-89b2-d76d3cdc6c91",
+      "name": "Frances",
+      "lastname": "Hodgson"
+    }
+  },
+  {
+    "bookId": "2266386e-7e36-4ece-89e9-689f600e6d70",
+    "title": "How to Become a Successful Entrepreneur",
+    "description": "How to Become a Successful Entrepreneur follows Michelle Lee's proven formula for achieving success in business through practical strategies and insider tips.",
+    "isbn": "978-1-23456-789-0",
+    "available": true,
+    "author": {
+      "authorId": "3667f0d8-deb7-44dd-b3c7-c3c129eb46ed",
+      "name": "Michelle",
+      "lastname": "Lee"
+    }
+  },
+  {
+    "bookId": "0dd71216-6af4-4147-94a2-a9f5348f33f6",
+    "title": "Where the Sun Sets",
+    "description": "Where the Sun Sets by Lisa Adams is a moving novel about love, loss and finding hope in unexpected places.",
+    "isbn": "978-0-263-28156-6",
+    "available": true,
+    "author": {
+      "authorId": "ed956541-9f68-418f-a8af-40b4464dc171",
+      "name": "Lisa",
+      "lastname": "Adams"
+    }
+  },
+  {
+    "bookId": "7efe020c-13f3-4ff8-bcc9-e6e5eda725e6",
+    "title": "The Great Adventure",
+    "description": "The Great Adventure by Samantha Williams follows a young girl on an unforgettable journey of self-discovery and courage.",
+    "isbn": "978-1-23456-789-0",
+    "available": true,
+    "author": {
+      "authorId": "0befa2de-7ebc-4562-9206-b2d3f52e46aa",
+      "name": "Samantha",
+      "lastname": "Williams"
+    }
+  },
+  {
+    "bookId": "baea4014-c7ff-4c0d-b08d-38873b204ce6",
+    "title": "The Many Adventures of Maxime",
+    "description": "The Many Adventures of Max is a heartwarming tale of a young boy's journey to overcome obstacles and find his place in the world, written by acclaimed author Jane Smith.",
+    "isbn": "978-1-23456-789-0",
+    "available": true,
+    "author": {
+      "authorId": "f0650e22-1bbf-429c-9123-9ac78355973b",
+      "name": "Jane",
+      "lastname": "Smith"
+    }
+  },
+  {
+    "bookId": "bdf5c021-769f-4a6d-b3b5-c7a0e874f899",
+    "title": "Sailing the Seas: A Memoir of Adventure and Discovery",
+    "description": "\"Sailing the Seas\" is a thrilling memoir from Sarah Lee, recounting her incredible experiences of adventure and discovery while exploring the vast and beautiful oceans of the world.",
+    "isbn": "978-0-345-42654-2",
+    "available": true,
+    "author": {
+      "authorId": "cc6d3c04-31da-42fd-9217-24f76ae51a9d",
+      "name": "Sarah",
+      "lastname": "Lee"
+    }
+  },
+  {
+    "bookId": "b11f5289-abe6-4243-b734-b61249120b46",
+    "title": "Twisted Fate",
+    "description": "Twisted Fate is a gripping novel by Samantha Reed, following the tumultuous journey of a young woman as she navigates love, tragedy, and the consequences of her choices.",
+    "isbn": "978-1-74388-299-7",
+    "available": true,
+    "author": {
+      "authorId": "b1abf8e0-fa64-4fe4-a77d-559480fbc3c9",
+      "name": "Samantha",
+      "lastname": "Reed"
+    }
+  },
+  {
+    "bookId": "7a34a0ee-8506-4807-93e3-ca82e7d4b78e",
+    "title": "The Haunted Manor",
+    "description": "Join Samantha Brown as she explores a mysterious and eerie manor that is rumored to be haunted, filled with spine-tingling secrets waiting to be uncovered.",
+    "isbn": "978-1-23456-789-2",
+    "available": true,
+    "author": {
+      "authorId": "a8e3022f-d2e1-4fa1-bea9-ed7851cb5b6b",
+      "name": "Samantha",
+      "lastname": "Brown"
+    }
+  },
+  {
+    "bookId": "82b6095d-035c-4a72-a391-22ae194d5fa1",
+    "title": "Crime and Punishment",
+    "description": "\"Crime and Punishment is a psychologically intense novel by Fyodor Dostoevsky that follows a young man's descent into moral turmoil and the consequences he faces for his actions.\"",
+    "isbn": "978-1-978-12345-6",
+    "available": true,
+    "author": {
+      "authorId": "7ea439e9-1ca0-4034-a8bd-99a71e7244d5",
+      "name": "Fyodor",
+      "lastname": "Dostoevsky"
+    }
+  },
+  {
+    "bookId": "b442af5a-41ed-46f0-bda1-9e1e77d9ce9d",
+    "title": "Adventure Awaits",
+    "description": "\"Adventure Awaits\" is a thrilling novel that follows the journey of a young adventurer as she navigates some of the most dangerous and exciting environments in the world.",
+    "isbn": "978-1-23456-789-0",
+    "available": true,
+    "author": {
+      "authorId": "f0650e22-1bbf-429c-9123-9ac78355973b",
+      "name": "Jane",
+      "lastname": "Smith"
+    }
+  },
+  {
+    "bookId": "92fab82d-ece7-448d-b7be-449dc35d4276",
+    "title": "The Great Escape",
+    "description": "The Great Escape follows a group of individuals as they make a daring attempt to break free from their captors and find their way back to freedom.",
+    "isbn": "978-1-23456-789-0",
+    "available": true,
+    "author": {
+      "authorId": "f0650e22-1bbf-429c-9123-9ac78355973b",
+      "name": "Jane",
+      "lastname": "Smith"
+    }
+  },
+  {
+    "bookId": "d2a498e0-22bf-4f6e-9d8f-1b4a26236e18",
+    "title": "The Lost City",
+    "description": "Follow a group of adventurers as they navigate through a treacherous jungle in search of a legendary lost city in this thrilling tale by Jane Smith.",
+    "isbn": "978-1-23456-789-0",
+    "available": true,
+    "author": {
+      "authorId": "f0650e22-1bbf-429c-9123-9ac78355973b",
+      "name": "Jane",
+      "lastname": "Smith"
+    }
+  },
+  {
+    "bookId": "be8e35db-b878-42dd-ba5e-efef6650b618",
+    "title": "Harry Potter",
+    "description": "\"Experience the magical world of Harry Potter as he learns the truth about his past and fights against the dark forces threatening his future in this spellbinding novel by J.K. Rowling.\"",
+    "isbn": "978-0439708180",
+    "available": true,
+    "author": {
+      "authorId": "66f415f4-27a3-49c3-875e-7bf2f6210525",
+      "name": "J.K.",
+      "lastname": "Rowling"
+    }
+  },
+  {
+    "bookId": "198afc3e-1ae9-4726-bb5d-39afeb06cd56",
+    "title": "The Secret Garden",
+    "description": "\"The Secret Garden is a heartwarming tale of a lonely girl who discovers a hidden, magical garden and learns the healing power of nature and friendship.\"",
+    "isbn": "978-0-7569-4981-8",
+    "available": true,
+    "author": {
+      "authorId": "f6a09a61-b875-47e5-89b2-d76d3cdc6c91",
+      "name": "Frances",
+      "lastname": "Hodgson"
+    }
+  },
+  {
+    "bookId": "cdc00b73-0b61-409d-ab5f-77fae5090b2f",
+    "title": "Fantasy Adventures",
+    "description": "Join author Jane Smith on a thrilling journey through magical worlds and mystical creatures in her book Fantasy Adventures.",
+    "isbn": "978-1-23456-789-0",
+    "available": true,
+    "author": {
+      "authorId": "f0650e22-1bbf-429c-9123-9ac78355973b",
+      "name": "Jane",
+      "lastname": "Smith"
+    }
+  },
+  {
+    "bookId": "702200d4-b0e9-4bf2-b0ce-32af83fbc9de",
+    "title": "The Lost City !",
+    "description": "In \"The Lost City,\" Jane Smith takes readers on a thrilling adventure through a mysterious and long-abandoned metropolis.",
+    "isbn": "978-1-23456-789-0",
+    "available": false,
+    "author": {
+      "authorId": "f0650e22-1bbf-429c-9123-9ac78355973b",
+      "name": "Jane",
+      "lastname": "Smith"
+    }
+  },
+  {
+    "bookId": "fdf770c3-e0ee-4585-ad4f-16488d87d2fb",
+    "title": "Sailing the Seven Seas",
+    "description": "Join Captain Smith on an unforgettable journey as he shares tales of adventure, danger, and discovery while sailing the seven seas.",
+    "isbn": "978-1-23456-789-0",
+    "available": true,
+    "author": {
+      "authorId": "24fb6849-b684-4cd6-8a65-d9fe380c4e17",
+      "name": "Captain",
+      "lastname": "Smith"
+    }
+  },
+  {
+    "bookId": "e132f0ab-5160-4d1c-a9d1-4da1a7f5b88a",
+    "title": "The Quest",
+    "description": "\"The Quest by Jane Smith is a gripping adventure tale filled with danger, suspense, and unexpected twists as the protagonist embarks on a journey to uncover the truth about their past.\"",
+    "isbn": "978-1-2354-7865-1",
+    "available": true,
+    "author": {
+      "authorId": "f0650e22-1bbf-429c-9123-9ac78355973b",
+      "name": "Jane",
+      "lastname": "Smith"
+    }
+  },
+  {
+    "bookId": "a08494f5-1fbe-48cc-bed9-f76fdc3a7eec",
+    "title": "Untold Stories",
+    "description": "\"Untold Stories uncovers the hidden truths and surprising adventures of Jane Smith, taking readers on a thrilling journey through her incredible untold tales.\"",
+    "isbn": "978-1-23456-789-0",
+    "available": true,
+    "author": {
+      "authorId": "f0650e22-1bbf-429c-9123-9ac78355973b",
+      "name": "Jane",
+      "lastname": "Smith"
+    }
+  },
+  {
+    "bookId": "bd59c8f5-0517-4bec-91ec-7bfc64e136f0",
+    "title": "The Secret Garden 3",
+    "description": "The Secret Garden is a timeless and enchanting novel written by Frances Hodgson Burnett, filled with magic, mystery, and the power of nature.",
+    "isbn": "978-0-486-28572-6",
+    "available": false,
+    "author": {
+      "authorId": "f6a09a61-b875-47e5-89b2-d76d3cdc6c91",
+      "name": "Frances",
+      "lastname": "Hodgson"
+    }
+  },
+  {
+    "bookId": "6866d609-0b24-4232-aed4-81877c765c7f",
+    "title": "The Mysterious Disappearance",
+    "description": "In \"The Mysterious Disappearance,\" Jennifer Smith tells the suspenseful tale of a person who suddenly vanishes without a trace, leaving behind a myriad of unanswered questions.",
+    "isbn": "978-1-23456-789-0",
+    "available": true,
+    "author": {
+      "authorId": "dcdce0eb-f6a6-423e-a57e-9532b1432501",
+      "name": "Jennifer",
+      "lastname": "Smith"
+    }
+  },
+  {
+    "bookId": "32c78908-6728-4ab0-8d7c-e2b1c0e308fe",
+    "title": "The Secret Life of Bees",
+    "description": "\"The Secret Life of Bees\" by Sue Monk Kidd is a poignant and heartwarming novel that follows a young girl's journey of self-discovery and healing as she finds a new family and a deeper understanding of the world through the secrets of",
+    "isbn": "978-0142001745",
+    "available": true,
+    "author": {
+      "authorId": "3f453451-2301-4d34-8989-dc57f75d3f29",
+      "name": "Sue",
+      "lastname": "Monk"
+    }
+  }
+]
