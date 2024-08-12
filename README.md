@@ -7,7 +7,7 @@ What does this app?
 - save books
 - save and load from an json file
 - delete books
-- generate random books with ChatGPT API (title, author, description)
+- generate random books with ChatGPT API (title, author, description, isbn)
 
 User Interface:
 ![library-ui](https://github.com/user-attachments/assets/4f826d61-aaf2-49e5-8791-b33e66d5cb17)
