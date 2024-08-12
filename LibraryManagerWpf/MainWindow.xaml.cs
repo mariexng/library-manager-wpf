@@ -215,7 +215,7 @@ namespace LibraryManagerWpf
             if (isEditingBook)
             {
                 library.UpdateBook(selectedBook, newBook);
-                buttonEdit.Content = "Change";
+                buttonEdit.Content = "Edit";
                 isEditingBook = false;
             }
             else
