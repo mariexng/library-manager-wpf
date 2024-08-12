@@ -1,5 +1,5 @@
 # LibraryManagerWpf
-IMPORTANT: You need to add a textfile 'apikey.txt' which holds your ChatGPT API Key for the "Invent Book" Button to function.
+IMPORTANT: You need to add your ChatGPT API Key to the 'apikey.txt' file.
 
 What does this app?
 - save and load data from an json file
